@@ -8,15 +8,5 @@
     "startTime": "07:00",
     "endTime": "09:30",
     "id": "jadwal_1753092153745_o45zpdoqf"
-  },
-  {
-    "class": "XI A",
-    "day": "Senin",
-    "subject": "Ekonomi",
-    "teacher": "Siska",
-    "icon": "fa-book",
-    "startTime": "17:16",
-    "endTime": "17:18",
-    "id": "jadwal_1753092982377_gnymy72ok"
   }
 ]
