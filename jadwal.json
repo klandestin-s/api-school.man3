@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "class": "XI A",
+    "day": "Rabu",
+    "subject": "Ekonomi",
+    "teacher": "Siska",
+    "icon": "fa-laptop-code",
+    "startTime": "00:30",
+    "endTime": "01:31",
+    "id": "jadwal_1753111819574_vann56ig5"
+  }
+]
