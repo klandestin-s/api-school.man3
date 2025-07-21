@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Ekonomi",
+    "teacher": "Siska",
+    "icon": "fa-landmark",
+    "startTime": "12:32",
+    "endTime": "14:22",
+    "id": "jadwal_1753112982240_dxli6uv0h"
+  }
+]
