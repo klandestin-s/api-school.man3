@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Ekonomi",
+    "teacher": "Siskae",
+    "icon": "fa-palette",
+    "startTime": "06:44",
+    "endTime": "08:00",
+    "id": "jadwal_1753112662246_ssaudtp8s"
+  }
+]
