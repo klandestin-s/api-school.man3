@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Ekonomi",
+    "teacher": "Siska",
+    "icon": "fa-chart-line",
+    "startTime": "07:00",
+    "endTime": "08:15",
+    "id": "jadwal_1753092064094_tbov51hjf"
+  }
+]
