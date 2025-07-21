@@ -8,5 +8,15 @@
     "startTime": "07:00",
     "endTime": "08:15",
     "id": "jadwal_1753092064094_tbov51hjf"
+  },
+  {
+    "class": "XI B",
+    "day": "Senin",
+    "subject": "Mtk",
+    "teacher": "Sonya",
+    "icon": "fa-calculator",
+    "startTime": "07:00",
+    "endTime": "09:30",
+    "id": "jadwal_1753092153745_o45zpdoqf"
   }
 ]
