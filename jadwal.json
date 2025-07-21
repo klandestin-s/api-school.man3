@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "class": "XI B",
+    "day": "Selasa",
+    "subject": "Ekonomi",
+    "teacher": "Siska",
+    "icon": "fa-laptop-code",
+    "startTime": "22:39",
+    "endTime": "22:40",
+    "id": "jadwal_1753112258040_g6y2sng2l"
+  }
+]
