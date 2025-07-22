@@ -28,16 +28,5 @@
     "startTime": "10:45",
     "endTime": "12:15",
     "id": "jadwal_1753155106779_pbhiwk8if"
-  },
-  {
-    "class": "XI A",
-    "day": "Selasa",
-    "subject": "Break Time",
-    "teacher": "Siska",
-    "type": "subject",
-    "icon": "fa-globe-asia",
-    "startTime": "18:11",
-    "endTime": "18:55",
-    "id": "jadwal_1753182693516_xdll1f7le"
   }
 ]
