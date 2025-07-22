@@ -38,5 +38,15 @@
     "startTime": "10:15",
     "endTime": "10:28",
     "id": "jadwal_1753154151108_w9i941sii"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Waktu Zhuhur",
+    "teacher": "For All",
+    "icon": "fa-mosque",
+    "startTime": "12:10",
+    "endTime": "12:50",
+    "id": "jadwal_1753154226068_p9cklu9n1"
   }
 ]
