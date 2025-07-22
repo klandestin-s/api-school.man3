@@ -22,8 +22,9 @@
   {
     "class": "XI A",
     "day": "Senin",
-    "subject": "Sri Wahyuningsih.S.Si",
-    "teacher": "Biologi ",
+    "subject": "Biologi",
+    "teacher": "Sri Wahyuningsih.S.Si",
+    "type": "subject",
     "icon": "fa-dna",
     "startTime": "10:45",
     "endTime": "12:15",
