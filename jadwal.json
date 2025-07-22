@@ -38,16 +38,5 @@
     "startTime": "12:00",
     "endTime": "13:00",
     "id": "jadwal_1753155198279_nrcb1hoje"
-  },
-  {
-    "class": "XI A",
-    "day": "Senin",
-    "subject": "Biolo",
-    "teacher": "sonya",
-    "type": "subject",
-    "icon": "fa-laptop-code",
-    "startTime": "14:02",
-    "endTime": "14:13",
-    "id": "jadwal_1753167754331_jcluuovv2"
   }
 ]
