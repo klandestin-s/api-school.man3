@@ -28,5 +28,16 @@
     "startTime": "10:45",
     "endTime": "12:15",
     "id": "jadwal_1753155106779_pbhiwk8if"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Break Time",
+    "teacher": "",
+    "type": "break",
+    "icon": "fa-mug-hot",
+    "startTime": "18:11",
+    "endTime": "18:55",
+    "id": "jadwal_1753182693516_xdll1f7le"
   }
 ]
