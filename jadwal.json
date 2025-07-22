@@ -106,5 +106,16 @@
     "startTime": "07:00",
     "endTime": "08:30",
     "id": "jadwal_1753197976234_gfw7mm64w"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Mtk Umum",
+    "teacher": "Sri Wahyuningsih.S.Si",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "08:30",
+    "endTime": "09:15",
+    "id": "jadwal_1753198171530_0lcwh36je"
   }
 ]
