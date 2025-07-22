@@ -33,9 +33,9 @@
     "class": "XI A",
     "day": "Selasa",
     "subject": "Break Time",
-    "teacher": "",
-    "type": "prayer",
-    "icon": "fa-mosque",
+    "teacher": "Siska",
+    "type": "subject",
+    "icon": "fa-globe-asia",
     "startTime": "18:11",
     "endTime": "18:55",
     "id": "jadwal_1753182693516_xdll1f7le"
