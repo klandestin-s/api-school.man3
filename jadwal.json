@@ -18,5 +18,15 @@
     "startTime": "09:00",
     "endTime": "10:30",
     "id": "jadwal_1753120179301_5k0fml6fj"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Istirahat",
+    "teacher": "dindin",
+    "icon": "fa-dna",
+    "startTime": "09:55",
+    "endTime": "09:59",
+    "id": "jadwal_1753152958263_ahf8ln53m"
   }
 ]
