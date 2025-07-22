@@ -34,8 +34,8 @@
     "day": "Selasa",
     "subject": "Break Time",
     "teacher": "",
-    "type": "break",
-    "icon": "fa-mug-hot",
+    "type": "prayer",
+    "icon": "fa-mosque",
     "startTime": "18:11",
     "endTime": "18:55",
     "id": "jadwal_1753182693516_xdll1f7le"
