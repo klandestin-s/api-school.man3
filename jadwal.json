@@ -194,5 +194,16 @@
     "startTime": "12:30",
     "endTime": "13:00",
     "id": "jadwal_1753199679062_b4g5edwfw"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Break Time- Istirahat / Sholat Ashar",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "15:20",
+    "endTime": "16:00",
+    "id": "jadwal_1753199777057_2qplcdba8"
   }
 ]
