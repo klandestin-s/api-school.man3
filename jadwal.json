@@ -84,5 +84,16 @@
     "startTime": "15:20",
     "endTime": "16:00",
     "id": "jadwal_1753185978302_q8i2dcpqq"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Upacara Bendera",
+    "teacher": "For All",
+    "type": "subject",
+    "icon": "fa-running",
+    "startTime": "07:00",
+    "endTime": "07:30",
+    "id": "jadwal_1753186311212_u0acmjy2g"
   }
 ]
