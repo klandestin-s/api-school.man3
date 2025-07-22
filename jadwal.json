@@ -50,5 +50,16 @@
     "startTime": "12:00",
     "endTime": "13:00",
     "id": "jadwal_1753185580187_8ser8n3kd"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Seni Budaya/ Rupa ",
+    "teacher": "Nurhasanah.S.Pd",
+    "type": "subject",
+    "icon": "fa-palette",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "id": "jadwal_1753185752911_pb0bgvs17"
   }
 ]
