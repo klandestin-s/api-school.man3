@@ -39,5 +39,16 @@
     "startTime": "10:30",
     "endTime": "10:45",
     "id": "jadwal_1753185463975_l3lh38j07"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Break Time- Istirahat / Sholat Dzhuhur",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "id": "jadwal_1753185580187_8ser8n3kd"
   }
 ]
