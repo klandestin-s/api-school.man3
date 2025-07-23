@@ -403,5 +403,16 @@
     "startTime": "14:30",
     "endTime": "15:20",
     "id": "jadwal_1753283676291_3bjdv1bo7"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Biologi",
+    "teacher": "Sri Wahyuningsih. S.Si",
+    "type": "subject",
+    "icon": "fa-dna",
+    "startTime": "07:00",
+    "endTime": "09:45",
+    "id": "jadwal_1753283816329_dwwisjdmb"
   }
 ]
