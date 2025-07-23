@@ -392,5 +392,16 @@
     "startTime": "13:00",
     "endTime": "14:30",
     "id": "jadwal_1753283562613_hvrb4rnp1"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Prakarya & Kewirausahaan",
+    "teacher": "Siska Felani. S.Pd",
+    "type": "subject",
+    "icon": "fa-music",
+    "startTime": "14:30",
+    "endTime": "15:20",
+    "id": "jadwal_1753283676291_3bjdv1bo7"
   }
 ]
