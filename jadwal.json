@@ -337,5 +337,16 @@
     "startTime": "10:00",
     "endTime": "10:15",
     "id": "jadwal_1753241911678_oig59dtds"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Bahasa Indonesia ",
+    "teacher": "Muhammad. S.Ag",
+    "type": "subject",
+    "icon": "fa-book",
+    "startTime": "10:15",
+    "endTime": "11:00",
+    "id": "jadwal_1753241972203_8ea2rfjxy"
   }
 ]
