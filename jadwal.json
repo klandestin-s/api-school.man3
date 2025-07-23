@@ -458,5 +458,16 @@
     "startTime": "07:00",
     "endTime": "07:30",
     "id": "jadwal_1753284939717_e2pas5ukl"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Break Time/ Istirahat (Sholat Jum'at/ Dzhuhur )",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "id": "jadwal_1753285030993_0ltm1zv4o"
   }
 ]
