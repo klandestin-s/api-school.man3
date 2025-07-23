@@ -216,5 +216,16 @@
     "startTime": "07:00",
     "endTime": "08:30",
     "id": "jadwal_1753199935390_9p2rh3311"
+  },
+  {
+    "class": "XI A",
+    "day": "Rabu",
+    "subject": "Matematika Umum",
+    "teacher": "Sri Wahyuningsih. S.Si",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "id": "jadwal_1753234171799_kjhnhyh01"
   }
 ]
