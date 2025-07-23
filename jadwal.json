@@ -282,5 +282,16 @@
     "startTime": "13:00",
     "endTime": "14:30",
     "id": "jadwal_1753234495113_qri59dw6m"
+  },
+  {
+    "class": "XI A",
+    "day": "Rabu",
+    "subject": "Pendidikan Pancasila/ Pkn",
+    "teacher": "Nurhikmah. S.Pd",
+    "type": "subject",
+    "icon": "fa-book",
+    "startTime": "14:30",
+    "endTime": "15:20",
+    "id": "jadwal_1753234579962_10hk8xkwe"
   }
 ]
