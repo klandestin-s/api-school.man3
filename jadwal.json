@@ -491,5 +491,16 @@
     "startTime": "14:30",
     "endTime": "15:20",
     "id": "jadwal_1753285362936_ntoq3qfw8"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Break Time- Libur",
+    "teacher": "",
+    "type": "break",
+    "icon": "fa-mug-hot",
+    "startTime": "15:20",
+    "endTime": "16:00",
+    "id": "jadwal_1753285658570_bqnzagaqi"
   }
 ]
