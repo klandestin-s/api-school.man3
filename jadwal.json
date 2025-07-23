@@ -326,5 +326,16 @@
     "startTime": "08:30",
     "endTime": "10:00",
     "id": "jadwal_1753240825065_63ih7o3ce"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Break Time/ Istirahat ",
+    "teacher": "",
+    "type": "break",
+    "icon": "fa-mug-hot",
+    "startTime": "10:00",
+    "endTime": "10:15",
+    "id": "jadwal_1753241911678_oig59dtds"
   }
 ]
