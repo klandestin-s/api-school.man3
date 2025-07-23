@@ -447,5 +447,16 @@
     "startTime": "10:45",
     "endTime": "11:30",
     "id": "jadwal_1753284032592_oko1mwbzt"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Zikir/ Tahlil Jum'at",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "07:00",
+    "endTime": "07:30",
+    "id": "jadwal_1753284939717_e2pas5ukl"
   }
 ]
