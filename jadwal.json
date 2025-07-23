@@ -249,5 +249,16 @@
     "startTime": "10:15",
     "endTime": "11:00",
     "id": "jadwal_1753234299986_94qi9ud8x"
+  },
+  {
+    "class": "XI A",
+    "day": "Rabu",
+    "subject": "Ekonomi",
+    "teacher": "Siska Felani. S.Pd",
+    "type": "subject",
+    "icon": "fa-chart-line",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "id": "jadwal_1753234360892_y5ptfrqc4"
   }
 ]
