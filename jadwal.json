@@ -414,5 +414,16 @@
     "startTime": "07:00",
     "endTime": "09:45",
     "id": "jadwal_1753283816329_dwwisjdmb"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Break Time/ Istirahat",
+    "teacher": "",
+    "type": "break",
+    "icon": "fa-mug-hot",
+    "startTime": "09:45",
+    "endTime": "10:00",
+    "id": "jadwal_1753283861878_r07dfvo81"
   }
 ]
