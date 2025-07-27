@@ -777,5 +777,16 @@
     "startTime": "13:00",
     "endTime": "14:30",
     "id": "jadwal_1753628972065_ml1airrlp"
+  },
+  {
+    "class": "XI B",
+    "day": "Rabu",
+    "subject": "Aqidah Akhlak",
+    "teacher": "Mustopa. S.Pd.I",
+    "type": "subject",
+    "icon": "fa-heart",
+    "startTime": "14:30",
+    "endTime": "15:20",
+    "id": "jadwal_1753629136967_64qq1y4u4"
   }
 ]
