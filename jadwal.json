@@ -755,5 +755,16 @@
     "startTime": "11:45",
     "endTime": "12:30",
     "id": "jadwal_1753628893773_ow5vl1pmf"
+  },
+  {
+    "class": "XI B",
+    "day": "Rabu",
+    "subject": "Break Time- Istirahat / Sholat Dzhuhur",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "12:30",
+    "endTime": "13:00",
+    "id": "jadwal_1753628934762_h8wa6hoya"
   }
 ]
