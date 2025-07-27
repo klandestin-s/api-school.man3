@@ -700,5 +700,16 @@
     "startTime": "15:20",
     "endTime": "16:00",
     "id": "jadwal_1753628010526_9frvsxgbg"
+  },
+  {
+    "class": "XI B",
+    "day": "Rabu",
+    "subject": "Matematika TL",
+    "teacher": "Sonya Yuda. S.Pd",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "id": "jadwal_1753628439676_5dswqmhs7"
   }
 ]
