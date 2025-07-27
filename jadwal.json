@@ -451,10 +451,10 @@
   {
     "class": "XI A",
     "day": "Jumat",
-    "subject": "Zikir / Senam Pagi ",
+    "subject": "Kegiatan Zikir - Pagi / Senam Pagi",
     "teacher": "",
-    "type": "subject",
-    "icon": "fa-bowl-food",
+    "type": "break",
+    "icon": "fa-heart",
     "startTime": "07:00",
     "endTime": "07:30",
     "id": "jadwal_1753284939717_e2pas5ukl"
