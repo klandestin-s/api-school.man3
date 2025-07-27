@@ -1008,5 +1008,16 @@
     "startTime": "15:15",
     "endTime": "15:25",
     "id": "jadwal_1753630492425_x2bkdji58"
+  },
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Break Time/ Sholat Ashar - Libur",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "15:20",
+    "endTime": "16:00",
+    "id": "jadwal_1753630562060_3uiw5ulh6"
   }
 ]
