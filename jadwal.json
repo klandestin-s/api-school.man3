@@ -601,5 +601,16 @@
     "startTime": "15:20",
     "endTime": "16:00",
     "id": "jadwal_1753585775397_9uf76rgbr"
+  },
+  {
+    "class": "XI B",
+    "day": "Selasa",
+    "subject": "Matematika TL",
+    "teacher": "Sonya Yuda. S.Pd",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "id": "jadwal_1753585951787_kqnpavc5s"
   }
 ]
