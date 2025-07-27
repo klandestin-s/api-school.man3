@@ -942,5 +942,16 @@
     "startTime": "09:45",
     "endTime": "10:00",
     "id": "jadwal_1753629988673_rl28auvnn"
+  },
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Matematika Umum",
+    "teacher": "Sri Wahyuningsih. S.Si",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "id": "jadwal_1753630056186_eid5x008u"
   }
 ]
