@@ -865,5 +865,16 @@
     "startTime": "12:30",
     "endTime": "13:00",
     "id": "jadwal_1753629554428_kzyorkhqj"
+  },
+  {
+    "class": "XI B",
+    "day": "Kamis",
+    "subject": "Pendidikan Pancasila/ Pkn",
+    "teacher": "Nurhimkah. S.Pd",
+    "type": "subject",
+    "icon": "fa-landmark",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "id": "jadwal_1753629643231_m9jwcpljm"
   }
 ]
