@@ -799,5 +799,16 @@
     "startTime": "15:20",
     "endTime": "16:00",
     "id": "jadwal_1753629169693_5psujxdh8"
+  },
+  {
+    "class": "XI B",
+    "day": "Kamis",
+    "subject": "Ekonomi",
+    "teacher": "Siska Felani. S.Pd",
+    "type": "subject",
+    "icon": "fa-chart-line",
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "id": "jadwal_1753629313016_ic8tee40t"
   }
 ]
