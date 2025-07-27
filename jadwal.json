@@ -453,7 +453,7 @@
     "day": "Jumat",
     "subject": "Kegiatan Zikir - Pagi / Senam Pagi",
     "teacher": "",
-    "type": "break",
+    "type": "subject",
     "icon": "fa-heart",
     "startTime": "07:00",
     "endTime": "07:30",
