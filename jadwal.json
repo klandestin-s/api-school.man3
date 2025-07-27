@@ -898,5 +898,16 @@
     "startTime": "15:20",
     "endTime": "16:00",
     "id": "jadwal_1753629741080_xaiwer5ha"
+  },
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Kegiatan Zikir - Pagi / Senam Pagi",
+    "teacher": "",
+    "type": "subject",
+    "icon": "fa-heart",
+    "startTime": "07:00",
+    "endTime": "07:30",
+    "id": "jadwal_1753629828360_f43ctew6i"
   }
 ]
