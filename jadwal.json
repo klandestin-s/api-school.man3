@@ -909,5 +909,16 @@
     "startTime": "07:00",
     "endTime": "07:30",
     "id": "jadwal_1753629828360_f43ctew6i"
+  },
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Ekonomi",
+    "teacher": "Siska Felani. S.Pd",
+    "type": "subject",
+    "icon": "fa-chart-line",
+    "startTime": "07:30",
+    "endTime": "09:00",
+    "id": "jadwal_1753629905179_81y8s19uu"
   }
 ]
