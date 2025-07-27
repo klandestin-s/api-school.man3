@@ -766,5 +766,16 @@
     "startTime": "12:30",
     "endTime": "13:00",
     "id": "jadwal_1753628934762_h8wa6hoya"
+  },
+  {
+    "class": "XI B",
+    "day": "Rabu",
+    "subject": "Biologi ",
+    "teacher": "Sri Wahyuningsih. S.Si",
+    "type": "subject",
+    "icon": "fa-dna",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "id": "jadwal_1753628972065_ml1airrlp"
   }
 ]
