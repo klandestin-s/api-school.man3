@@ -854,5 +854,16 @@
     "startTime": "11:45",
     "endTime": "12:30",
     "id": "jadwal_1753629515835_jnykoa0u7"
+  },
+  {
+    "class": "XI B",
+    "day": "Kamis",
+    "subject": "Break Time- Istirahat / Sholat Dzhuhur",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "12:30",
+    "endTime": "13:00",
+    "id": "jadwal_1753629554428_kzyorkhqj"
   }
 ]
