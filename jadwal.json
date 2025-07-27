@@ -546,5 +546,16 @@
     "startTime": "10:30",
     "endTime": "10:45",
     "id": "jadwal_1753585350291_rimhfwg97"
+  },
+  {
+    "class": "XI B",
+    "day": "Senin",
+    "subject": "Prakarya Dan Kewirausahaan ",
+    "teacher": "Siska Felani. S.Pd",
+    "type": "subject",
+    "icon": "fa-palette",
+    "startTime": "10:45",
+    "endTime": "12:15",
+    "id": "jadwal_1753585505258_tz1psnohh"
   }
 ]
