@@ -986,5 +986,16 @@
     "startTime": "13:00",
     "endTime": "14:30",
     "id": "jadwal_1753630248160_9xrttccjj"
+  },
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Bahasa Inggris ",
+    "teacher": "Fitriani. S.Pd",
+    "type": "subject",
+    "icon": "fa-language",
+    "startTime": "14:30",
+    "endTime": "15:15",
+    "id": "jadwal_1753630372940_kjvut9c81"
   }
 ]
