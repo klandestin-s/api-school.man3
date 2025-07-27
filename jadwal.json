@@ -810,5 +810,16 @@
     "startTime": "07:00",
     "endTime": "08:30",
     "id": "jadwal_1753629313016_ic8tee40t"
+  },
+  {
+    "class": "XI B",
+    "day": "Kamis",
+    "subject": "Sejarah Kebudayaan Islam/ Ski",
+    "teacher": "Sanawati. S.Pd.I",
+    "type": "subject",
+    "icon": "fa-scroll",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "id": "jadwal_1753629365678_j6nylbxmn"
   }
 ]
