@@ -656,5 +656,16 @@
     "startTime": "11:45",
     "endTime": "12:30",
     "id": "jadwal_1753627671469_7dy8g4bo6"
+  },
+  {
+    "class": "XI B",
+    "day": "Selasa",
+    "subject": "Break Time- Istirahat / Sholat Dzhuhur",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "11:45",
+    "endTime": "13:00",
+    "id": "jadwal_1753627711895_4wjpsepbv"
   }
 ]
