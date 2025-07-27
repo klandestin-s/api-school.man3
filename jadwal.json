@@ -876,5 +876,16 @@
     "startTime": "13:00",
     "endTime": "14:30",
     "id": "jadwal_1753629643231_m9jwcpljm"
+  },
+  {
+    "class": "XI B",
+    "day": "Kamis",
+    "subject": "Geografi ",
+    "teacher": "Sherly Apriyani. S.Pd",
+    "type": "subject",
+    "icon": "fa-globe-asia",
+    "startTime": "14:30",
+    "endTime": "15:20",
+    "id": "jadwal_1753629699891_11hxf6f7m"
   }
 ]
