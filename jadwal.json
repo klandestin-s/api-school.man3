@@ -920,5 +920,16 @@
     "startTime": "07:30",
     "endTime": "09:00",
     "id": "jadwal_1753629905179_81y8s19uu"
+  },
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Matematika TL",
+    "teacher": "Sonya Yuda. S.Pd",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "09:00",
+    "endTime": "09:45",
+    "id": "jadwal_1753629965409_fpgplppch"
   }
 ]
