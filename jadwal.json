@@ -645,5 +645,16 @@
     "startTime": "10:15",
     "endTime": "11:45",
     "id": "jadwal_1753586106915_no8583mkn"
+  },
+  {
+    "class": "XI B",
+    "day": "Selasa",
+    "subject": "Geografi ",
+    "teacher": "Sherly Apriyani. S.Pd",
+    "type": "subject",
+    "icon": "fa-globe-asia",
+    "startTime": "11:45",
+    "endTime": "12:30",
+    "id": "jadwal_1753627671469_7dy8g4bo6"
   }
 ]
