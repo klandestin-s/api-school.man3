@@ -975,5 +975,16 @@
     "startTime": "11:30",
     "endTime": "13:00",
     "id": "jadwal_1753630142411_c3vrrhxut"
+  },
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Tata Boga/ Pengolahan ",
+    "teacher": "Nurhikmah. S.Pd",
+    "type": "subject",
+    "icon": "fa-utensils",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "id": "jadwal_1753630248160_9xrttccjj"
   }
 ]
