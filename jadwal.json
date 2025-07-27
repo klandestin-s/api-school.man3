@@ -513,5 +513,16 @@
     "startTime": "07:00",
     "endTime": "07:30",
     "id": "jadwal_1753585181974_ip4o488pb"
+  },
+  {
+    "class": "XI B",
+    "day": "Senin",
+    "subject": "Geografi ",
+    "teacher": "Sherly Apriyani. S.Pd",
+    "type": "subject",
+    "icon": "fa-globe-asia",
+    "startTime": "07:30",
+    "endTime": "09:00",
+    "id": "jadwal_1753585246470_chrvba657"
   }
 ]
