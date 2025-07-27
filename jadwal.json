@@ -667,5 +667,16 @@
     "startTime": "12:30",
     "endTime": "13:00",
     "id": "jadwal_1753627711895_4wjpsepbv"
+  },
+  {
+    "class": "XI B",
+    "day": "Selasa",
+    "subject": "Bahasa Arab",
+    "teacher": "Ahmad Fauzi. S.Pd.I",
+    "type": "subject",
+    "icon": "fa-quran",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "id": "jadwal_1753627810975_vbezj794q"
   }
 ]
