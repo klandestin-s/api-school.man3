@@ -612,5 +612,16 @@
     "startTime": "07:00",
     "endTime": "08:30",
     "id": "jadwal_1753585951787_kqnpavc5s"
+  },
+  {
+    "class": "XI B",
+    "day": "Selasa",
+    "subject": "Penjaskes/ Pjok",
+    "teacher": "Dumrah. S.Pd",
+    "type": "subject",
+    "icon": "fa-running",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "id": "jadwal_1753586034153_12jjpcjtx"
   }
 ]
