@@ -997,5 +997,16 @@
     "startTime": "14:30",
     "endTime": "15:15",
     "id": "jadwal_1753630372940_kjvut9c81"
+  },
+  {
+    "class": "XI B",
+    "day": "Jumat",
+    "subject": "Prakarya Kerajinan/ Tata Busana",
+    "teacher": "Fitriani. S.Pd",
+    "type": "subject",
+    "icon": "fa-scissors",
+    "startTime": "15:15",
+    "endTime": "15:25",
+    "id": "jadwal_1753630492425_x2bkdji58"
   }
 ]
