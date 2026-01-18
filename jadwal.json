@@ -31,5 +31,16 @@
     "startTime": "09:00",
     "endTime": "10:30",
     "id": "jadwal_1768728826197_q2z5sypg8"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Istirahat",
+    "teacher": "",
+    "type": "break",
+    "icon": "fa-mug-hot",
+    "startTime": "10:30",
+    "endTime": "10:45",
+    "id": "jadwal_1768728930124_ukwf0gkgo"
   }
 ]
