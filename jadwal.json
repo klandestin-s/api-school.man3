@@ -460,5 +460,16 @@
     "startTime": "09:45",
     "endTime": "10:00",
     "id": "jadwal_1768733823709_n3pi3pxzq"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Seni Budaya/ Prakarya ",
+    "teacher": "Nurhasanah. S.Pd",
+    "type": "subject",
+    "icon": "fa-palette",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "id": "jadwal_1768733888144_c1h3smcm1"
   }
 ]
