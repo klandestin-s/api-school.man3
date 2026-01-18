@@ -163,5 +163,16 @@
     "startTime": "12:30",
     "endTime": "13:00",
     "id": "jadwal_1768730040708_kygdvdw1x"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Sholat Ashar ",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "15:20",
+    "endTime": "16:00",
+    "id": "jadwal_1768730107350_0uu2k40xk"
   }
 ]
