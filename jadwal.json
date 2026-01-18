@@ -295,5 +295,16 @@
     "startTime": "14:30",
     "endTime": "15:20",
     "id": "jadwal_1768732823077_c4hxlzyvi"
+  },
+  {
+    "class": "XI A",
+    "day": "Rabu",
+    "subject": "Sholat Ashar ",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "15:20",
+    "endTime": "16:00",
+    "id": "jadwal_1768732850644_tkr1c8l7r"
   }
 ]
