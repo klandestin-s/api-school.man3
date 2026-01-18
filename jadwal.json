@@ -317,5 +317,16 @@
     "startTime": "07:00",
     "endTime": "08:30",
     "id": "jadwal_1768732903727_se42wuv4x"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Matematika ",
+    "teacher": "Sonya Yuda. S.Pd",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "id": "jadwal_1768732971828_9ycqhln6b"
   }
 ]
