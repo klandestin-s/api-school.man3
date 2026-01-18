@@ -504,5 +504,16 @@
     "startTime": "14:30",
     "endTime": "15:20",
     "id": "jadwal_1768734095154_ktdi68tv7"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Sholat Ashar",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "15:20",
+    "endTime": "16:00",
+    "id": "jadwal_1768734117013_6ohw67q44"
   }
 ]
