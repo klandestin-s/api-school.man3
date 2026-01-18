@@ -383,5 +383,16 @@
     "startTime": "13:00",
     "endTime": "14:30",
     "id": "jadwal_1768733225142_xvol7bwdw"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "PKWH/ Prakarya dan Kewirausahaan ",
+    "teacher": "Siska Felani S.Pd",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "14:30",
+    "endTime": "15:20",
+    "id": "jadwal_1768733338532_kxh1407tu"
   }
 ]
