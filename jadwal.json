@@ -152,5 +152,16 @@
     "startTime": "11:00",
     "endTime": "12:30",
     "id": "jadwal_1768729798525_ztuhv6j2x"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Sholat Zhuhur ",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "12:30",
+    "endTime": "13:00",
+    "id": "jadwal_1768730040708_kygdvdw1x"
   }
 ]
