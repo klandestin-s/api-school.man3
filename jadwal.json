@@ -42,5 +42,16 @@
     "startTime": "10:30",
     "endTime": "10:45",
     "id": "jadwal_1768728930124_ukwf0gkgo"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Matematika ",
+    "teacher": "Sonya Yuda. S.Pd",
+    "type": "subject",
+    "icon": "fa-calculator",
+    "startTime": "10:45",
+    "endTime": "12:15",
+    "id": "jadwal_1768729023507_rw7p0mx3r"
   }
 ]
