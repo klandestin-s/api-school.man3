@@ -9,5 +9,16 @@
     "startTime": "07:00",
     "endTime": "07:30",
     "id": "jadwal_1768718969535_po569fr02"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Ekonomi",
+    "teacher": "Siska Felani S.Pd",
+    "type": "subject",
+    "icon": "fa-chart-line",
+    "startTime": "07:30",
+    "endTime": "09:00",
+    "id": "jadwal_1768728756461_lnbposyk8"
   }
 ]
