@@ -119,5 +119,16 @@
     "startTime": "08:30",
     "endTime": "10:00",
     "id": "jadwal_1768729535697_21xdaa2k4"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Istirahat ",
+    "teacher": "",
+    "type": "break",
+    "icon": "fa-mug-hot",
+    "startTime": "10:00",
+    "endTime": "10:15",
+    "id": "jadwal_1768729586892_j8etc0pay"
   }
 ]
