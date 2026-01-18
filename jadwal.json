@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "for all",
+    "teacher": "",
+    "type": "subject",
+    "icon": "fa-book",
+    "startTime": "07:00",
+    "endTime": "07:30",
+    "id": "jadwal_1768718088816_iw4fhu28c"
+  }
+]
