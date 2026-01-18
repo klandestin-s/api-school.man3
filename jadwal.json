@@ -339,5 +339,16 @@
     "startTime": "10:00",
     "endTime": "10:15",
     "id": "jadwal_1768732999384_z2hsbdcsd"
+  },
+  {
+    "class": "XI A",
+    "day": "Rabu",
+    "subject": "Bahasa Indonesia ",
+    "teacher": "Muhamad. S.Ag",
+    "type": "subject",
+    "icon": "fa-book",
+    "startTime": "10:15",
+    "endTime": "11:00",
+    "id": "jadwal_1768733080325_pgfvzvpum"
   }
 ]
