@@ -306,5 +306,16 @@
     "startTime": "15:20",
     "endTime": "16:00",
     "id": "jadwal_1768732850644_tkr1c8l7r"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Biologi",
+    "teacher": "Sri Wahyuningsih. S.Si",
+    "type": "subject",
+    "icon": "fa-dna",
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "id": "jadwal_1768732903727_se42wuv4x"
   }
 ]
