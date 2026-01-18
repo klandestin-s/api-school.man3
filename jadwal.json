@@ -20,5 +20,16 @@
     "startTime": "07:30",
     "endTime": "09:00",
     "id": "jadwal_1768728756461_lnbposyk8"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Biologi ",
+    "teacher": "Sri Wahyuningsih. S.Si",
+    "type": "subject",
+    "icon": "fa-dna",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "id": "jadwal_1768728826197_q2z5sypg8"
   }
 ]
