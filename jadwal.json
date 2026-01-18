@@ -229,5 +229,16 @@
     "startTime": "08:30",
     "endTime": "10:00",
     "id": "jadwal_1768730576545_6vpjrh156"
+  },
+  {
+    "class": "XI A",
+    "day": "Rabu",
+    "subject": "Istirahat ",
+    "teacher": "",
+    "type": "break",
+    "icon": "fa-mug-hot",
+    "startTime": "10:00",
+    "endTime": "10:15",
+    "id": "jadwal_1768730622928_rz8x9ndsm"
   }
 ]
