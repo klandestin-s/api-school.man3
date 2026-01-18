@@ -53,5 +53,16 @@
     "startTime": "10:45",
     "endTime": "12:15",
     "id": "jadwal_1768729023507_rw7p0mx3r"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Sholat Dzuhur ",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "id": "jadwal_1768729094239_h7qqkoque"
   }
 ]
