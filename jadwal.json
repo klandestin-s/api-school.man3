@@ -471,5 +471,16 @@
     "startTime": "10:00",
     "endTime": "11:30",
     "id": "jadwal_1768733888144_c1h3smcm1"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Sholat Jumat/ Zhuhur ",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "id": "jadwal_1768733921595_ydbu1js07"
   }
 ]
