@@ -361,5 +361,16 @@
     "startTime": "11:00",
     "endTime": "12:30",
     "id": "jadwal_1768733117747_xoa6r7lrg"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Sholat Zhuhur ",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "12:30",
+    "endTime": "13:00",
+    "id": "jadwal_1768733148927_tzggs9yya"
   }
 ]
