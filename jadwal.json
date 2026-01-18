@@ -394,5 +394,16 @@
     "startTime": "14:30",
     "endTime": "15:20",
     "id": "jadwal_1768733338532_kxh1407tu"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Sholat Ashar ",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-mosque",
+    "startTime": "15:20",
+    "endTime": "16:00",
+    "id": "jadwal_1768733364487_zgj29aqq1"
   }
 ]
