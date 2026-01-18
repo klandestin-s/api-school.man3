@@ -64,5 +64,16 @@
     "startTime": "12:00",
     "endTime": "13:00",
     "id": "jadwal_1768729094239_h7qqkoque"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Prakarya Kerajinan/ Tata Busana",
+    "teacher": "Fitriani. S.Pd",
+    "type": "subject",
+    "icon": "fa-scissors",
+    "startTime": "13:00",
+    "endTime": "13:45",
+    "id": "jadwal_1768729246129_p51bbupsq"
   }
 ]
