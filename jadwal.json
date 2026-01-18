@@ -86,5 +86,16 @@
     "startTime": "13:45",
     "endTime": "14:30",
     "id": "jadwal_1768729307916_wvmxdqoft"
+  },
+  {
+    "class": "XI A",
+    "day": "Senin",
+    "subject": "Qur'an Hadist",
+    "teacher": "Raju Faisal. S.Pd",
+    "type": "subject",
+    "icon": "fa-quran",
+    "startTime": "14:30",
+    "endTime": "16:00",
+    "id": "jadwal_1768729416663_igp3rxnpg"
   }
 ]
