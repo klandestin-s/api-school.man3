@@ -449,5 +449,16 @@
     "startTime": "09:00",
     "endTime": "09:45",
     "id": "jadwal_1768733678466_6eqatk8pc"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Istirahat ",
+    "teacher": "",
+    "type": "break",
+    "icon": "fa-mug-hot",
+    "startTime": "09:45",
+    "endTime": "10:00",
+    "id": "jadwal_1768733823709_n3pi3pxzq"
   }
 ]
