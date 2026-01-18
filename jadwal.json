@@ -207,5 +207,16 @@
     "startTime": "15:20",
     "endTime": "16:00",
     "id": "jadwal_1768730354292_3wi9dhr9k"
+  },
+  {
+    "class": "XI A",
+    "day": "Rabu",
+    "subject": "Bahasa Arab",
+    "teacher": "Ahmad Fauzi. S.Pd.I",
+    "type": "subject",
+    "icon": "fa-quran",
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "id": "jadwal_1768730465672_b7rvq56vj"
   }
 ]
