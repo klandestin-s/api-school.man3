@@ -141,5 +141,16 @@
     "startTime": "10:15",
     "endTime": "11:00",
     "id": "jadwal_1768729689067_89iq1h10w"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Fiqih",
+    "teacher": "Sanawati. S.Pd.I",
+    "type": "subject",
+    "icon": "fa-scale-balanced",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "id": "jadwal_1768729798525_ztuhv6j2x"
   }
 ]
