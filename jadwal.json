@@ -97,5 +97,16 @@
     "startTime": "14:30",
     "endTime": "16:00",
     "id": "jadwal_1768729416663_igp3rxnpg"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Olahraga ",
+    "teacher": "Dumrah. S.Pd",
+    "type": "subject",
+    "icon": "fa-running",
+    "startTime": "07:00",
+    "endTime": "08:30",
+    "id": "jadwal_1768729481073_klrkur7q7"
   }
 ]
