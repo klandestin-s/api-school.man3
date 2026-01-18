@@ -431,12 +431,12 @@
   {
     "class": "XI A",
     "day": "Jumat",
-    "subject": "Matematika ",
+    "subject": "Matematika TL",
     "teacher": "Sonya Yuda. S.Pd",
     "type": "subject",
     "icon": "fa-calculator",
     "startTime": "08:15",
-    "endTime": "09:45",
+    "endTime": "09:00",
     "id": "jadwal_1768733565716_bkonucsce"
   }
 ]
