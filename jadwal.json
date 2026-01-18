@@ -108,5 +108,16 @@
     "startTime": "07:00",
     "endTime": "08:30",
     "id": "jadwal_1768729481073_klrkur7q7"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Ekonomi",
+    "teacher": "Siska Felani S.Pd",
+    "type": "subject",
+    "icon": "fa-chart-line",
+    "startTime": "08:30",
+    "endTime": "10:00",
+    "id": "jadwal_1768729535697_21xdaa2k4"
   }
 ]
