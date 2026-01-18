@@ -372,5 +372,16 @@
     "startTime": "12:30",
     "endTime": "13:00",
     "id": "jadwal_1768733148927_tzggs9yya"
+  },
+  {
+    "class": "XI A",
+    "day": "Kamis",
+    "subject": "Sejarah",
+    "teacher": "Baikawati. S.Pd.I",
+    "type": "subject",
+    "icon": "fa-scroll",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "id": "jadwal_1768733225142_xvol7bwdw"
   }
 ]
