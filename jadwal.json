@@ -174,5 +174,16 @@
     "startTime": "15:20",
     "endTime": "16:00",
     "id": "jadwal_1768730107350_0uu2k40xk"
+  },
+  {
+    "class": "XI A",
+    "day": "Selasa",
+    "subject": "Bahasa Inggris ",
+    "teacher": "Fitriani. S.Pd",
+    "type": "subject",
+    "icon": "fa-language",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "id": "jadwal_1768730220583_6ffk8n5l1"
   }
 ]
