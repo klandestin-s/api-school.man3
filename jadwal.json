@@ -482,5 +482,16 @@
     "startTime": "11:30",
     "endTime": "13:00",
     "id": "jadwal_1768733921595_ydbu1js07"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Bahasa Indonesia ",
+    "teacher": "Muhamad. S.Ag",
+    "type": "subject",
+    "icon": "fa-book",
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "id": "jadwal_1768733966188_kqrflp3ch"
   }
 ]
