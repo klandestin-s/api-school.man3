@@ -416,5 +416,16 @@
     "startTime": "07:30",
     "endTime": "08:15",
     "id": "jadwal_1768733420309_891d1wp79"
+  },
+  {
+    "class": "XI A",
+    "day": "Jumat",
+    "subject": "Zikir & atau Senam",
+    "teacher": "",
+    "type": "prayer",
+    "icon": "fa-quran",
+    "startTime": "07:00",
+    "endTime": "07:30",
+    "id": "jadwal_1768733510903_py6kf3lr8"
   }
 ]
